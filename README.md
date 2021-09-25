@@ -1,5 +1,6 @@
 # Simon Louie's CS 450 Final Project
-This is an archive of my final project for CS 450 Introduction to Computer Graphics at Oregon State University.   
+This is an archive of my final project for CS 450 Introduction to Computer Graphics at Oregon State University.  
+Here is a demo of the project: https://media.oregonstate.edu/media/t/1_hc2pg8sw
 
 ## About the Project
 
